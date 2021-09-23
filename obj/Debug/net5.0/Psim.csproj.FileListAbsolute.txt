@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\Psim\bin\Debug\net5.0\Psim.exe
+C:\Users\danie\source\repos\Psim\bin\Debug\net5.0\Psim.deps.json
+C:\Users\danie\source\repos\Psim\bin\Debug\net5.0\Psim.runtimeconfig.json
+C:\Users\danie\source\repos\Psim\bin\Debug\net5.0\Psim.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Psim\bin\Debug\net5.0\Psim.dll
+C:\Users\danie\source\repos\Psim\bin\Debug\net5.0\ref\Psim.dll
+C:\Users\danie\source\repos\Psim\bin\Debug\net5.0\Psim.pdb
+C:\Users\danie\source\repos\Psim\obj\Debug\net5.0\Psim.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Psim\obj\Debug\net5.0\Psim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Psim\obj\Debug\net5.0\Psim.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Psim\obj\Debug\net5.0\Psim.AssemblyInfo.cs
+C:\Users\danie\source\repos\Psim\obj\Debug\net5.0\Psim.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Psim\obj\Debug\net5.0\Psim.dll
+C:\Users\danie\source\repos\Psim\obj\Debug\net5.0\ref\Psim.dll
+C:\Users\danie\source\repos\Psim\obj\Debug\net5.0\Psim.pdb
+C:\Users\danie\source\repos\Psim\obj\Debug\net5.0\Psim.genruntimeconfig.cache
